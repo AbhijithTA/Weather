@@ -4,7 +4,7 @@
 
 Welcome to the Weather Application project! This application provides real-time weather updates based on user-input locations. Users can enter any location and receive up-to-date weather information instantly.
 
-![Weather App Screenshot](https://github.com/AbhijithTA/Weather/blob/ca09b1b543f50c9d70a3cf93bca8546950bce584/Screenshot%20(3).png)
+![Weather App Screenshot](https://github.com/AbhijithTA/Weather/blob/ca09b1b543f50c9d70a3cf93bca8546950bce584/Screenshot%20(3).png https://github.com/AbhijithTA/Weather/blob/f51824c8299b92604d70c2f528dfdd470a3bda35/Screenshot%20(4).png)
 
 ## Features
 
