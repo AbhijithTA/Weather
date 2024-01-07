@@ -43,8 +43,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 This project was created by Abhijith T A. 
 
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE](link-to-license-file) file for details.
-
 ---
