@@ -1,5 +1,3 @@
-Absolutely, here's an example of a README file for your Weather Application project:
-
 ---
 
 # Weather Application 🌦️
